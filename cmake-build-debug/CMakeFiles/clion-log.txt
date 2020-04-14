@@ -1,0 +1,4 @@
+"/Users/dulanja/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.6911.21/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/dulanja/Documents/AlgoC++
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/dulanja/Documents/AlgoC++/cmake-build-debug

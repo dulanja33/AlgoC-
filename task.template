@@ -1,0 +1,11 @@
+#include <bits/stdc++.h>
+
+#include "../library/lib.hpp"
+
+
+class %ClassName% {
+public:
+	void solve(istream& in, ostream& out) {
+
+	}
+};

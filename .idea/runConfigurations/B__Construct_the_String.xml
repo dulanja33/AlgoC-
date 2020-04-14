@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="B. Construct the String" type="name.admitriev.jhelper.configuration.TaskConfigurationType" factoryName="Task" className="BConstructTheString" cppPath="tasks/BConstructTheString.cpp" inputType="STANDARD" outputType="STANDARD" testType="SINGLE">
+    <tests>
+      <test input="4&#10;7 5 3&#10;6 1 1&#10;6 6 1&#10;5 2 2&#10;" output="tleelte&#10;qwerty&#10;vvvvvv&#10;abcde&#10;" active="true" />
+      <test input="4&#10;8 4 3&#10;8 5 3&#10;8 6 3&#10;8 7 3" output="" active="false" />
+    </tests>
+    <method v="2" />
+  </configuration>
+</component>
