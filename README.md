@@ -1,1 +1,1 @@
-CLion Project for  ProgrammingCompetitive
+CLion Project for  Competitive Programing
