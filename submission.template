@@ -1,8 +1,8 @@
 
 %Code%
 
+
 int main() {
-	%ClassName% solver;
 	%Input%
 	%Output%
 

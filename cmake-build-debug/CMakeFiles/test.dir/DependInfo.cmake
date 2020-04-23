@@ -4,9 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/dulanja/Documents/AlgoC++/tasks/ACandiesAndTwoSisters.cpp" "/Users/dulanja/Documents/AlgoC++/cmake-build-debug/CMakeFiles/test.dir/tasks/ACandiesAndTwoSisters.cpp.o"
-  "/Users/dulanja/Documents/AlgoC++/tasks/BConstructTheString.cpp" "/Users/dulanja/Documents/AlgoC++/cmake-build-debug/CMakeFiles/test.dir/tasks/BConstructTheString.cpp.o"
-  "/Users/dulanja/Documents/AlgoC++/tasks/CTwoTeamsComposing.cpp" "/Users/dulanja/Documents/AlgoC++/cmake-build-debug/CMakeFiles/test.dir/tasks/CTwoTeamsComposing.cpp.o"
+  "/Users/dulanja/Documents/AlgoC++/tasks/CAlternatingSubsequence.cpp" "/Users/dulanja/Documents/AlgoC++/cmake-build-debug/CMakeFiles/test.dir/tasks/CAlternatingSubsequence.cpp.o"
+  "/Users/dulanja/Documents/AlgoC++/tasks/ffff.cpp" "/Users/dulanja/Documents/AlgoC++/cmake-build-debug/CMakeFiles/test.dir/tasks/ffff.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

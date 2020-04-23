@@ -1,4 +1,4 @@
-#include "/Users/dulanja/Documents/AlgoC++/tasks/CTwoTeamsComposing.cpp"
+#include "/Users/dulanja/Documents/AlgoC++/tasks/CAlternatingSubsequence.cpp"
 
 #include <bits/stdc++.h>
 
@@ -23,7 +23,7 @@ bool check(string expected, string actual) {
 
 int main() {
 	vector<jhelper::Test> tests = {
-		{"4\n7\n4 2 4 1 4 3 4\n5\n2 1 5 4 3\n1\n1\n4\n1 1 1 3\n", "3\n1\n0\n2\n", true, true},
+		{"4\n5\n1 2 3 -1 -2\n4\n-1 -2 -1 -3\n10\n-2 8 3 8 -4 -15 5 -2 -3 1\n6\n1 -1000000000 1 -1000000000 1 -1000000000\n", "2\n-1\n6\n-2999999997\n", true, true},
 	};
 	bool allOK = true;
 	int testID = 0;
@@ -42,8 +42,7 @@ int main() {
 			stringstream in(test.input);
 			ostringstream out;
 			clock_t start = clock();
-			CTwoTeamsComposing solver;
-			solver.solve(in, out);
+			CAlternatingSubsequence(in, out);
 			clock_t finish = clock();
 			double currentTime = double(finish - start) / CLOCKS_PER_SEC;
 			maxTime = max(currentTime, maxTime);

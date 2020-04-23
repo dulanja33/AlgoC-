@@ -1,7 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/test.dir/tasks/ACandiesAndTwoSisters.cpp.o"
-  "CMakeFiles/test.dir/tasks/BConstructTheString.cpp.o"
-  "CMakeFiles/test.dir/tasks/CTwoTeamsComposing.cpp.o"
+  "CMakeFiles/test.dir/tasks/CAlternatingSubsequence.cpp.o"
+  "CMakeFiles/test.dir/tasks/ffff.cpp.o"
   "test"
   "test.pdb"
 )

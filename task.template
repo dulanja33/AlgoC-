@@ -2,10 +2,9 @@
 
 #include "../library/lib.hpp"
 
+//int testNumber = 0;
+void %ClassName%(std::istream& in, std::ostream& out) {
+    //out << "Case #" << ++testNumber << ": ";
 
-class %ClassName% {
-public:
-	void solve(istream& in, ostream& out) {
 
-	}
-};
+}

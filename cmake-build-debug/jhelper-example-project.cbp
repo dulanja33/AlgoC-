@@ -170,13 +170,10 @@
 		<Unit filename="/Users/dulanja/Documents/AlgoC++/output/main.cpp">
 			<Option target="output"/>
 		</Unit>
-		<Unit filename="/Users/dulanja/Documents/AlgoC++/tasks/ACandiesAndTwoSisters.cpp">
+		<Unit filename="/Users/dulanja/Documents/AlgoC++/tasks/CAlternatingSubsequence.cpp">
 			<Option target="test"/>
 		</Unit>
-		<Unit filename="/Users/dulanja/Documents/AlgoC++/tasks/BConstructTheString.cpp">
-			<Option target="test"/>
-		</Unit>
-		<Unit filename="/Users/dulanja/Documents/AlgoC++/tasks/CTwoTeamsComposing.cpp">
+		<Unit filename="/Users/dulanja/Documents/AlgoC++/tasks/ffff.cpp">
 			<Option target="test"/>
 		</Unit>
 		<Unit filename="/Users/dulanja/Documents/AlgoC++/testrunner/main.cpp">
